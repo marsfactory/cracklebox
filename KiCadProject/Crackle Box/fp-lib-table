@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "CrackleTranzaBox")(type KiCad)(uri "$(KIPRJMOD)/CrackleTranzaBox.pretty")(options "")(descr ""))
+)
